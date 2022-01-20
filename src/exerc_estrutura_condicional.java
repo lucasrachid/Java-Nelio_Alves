@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class exerc_estrutura_condicional {
 
-	public static void main(String[] args) {
-		
-		//Exercício Estrutura Condicional - 01 - Youtube
+    public static void main(String[] args) {
+
+        //Exercï¿½cio Estrutura Condicional - 01 - Youtube
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		double semestre_01, semestre_02;
@@ -16,15 +16,15 @@ public class exerc_estrutura_condicional {
 //		semestre_02 = ed.nextDouble();
 //		double soma = semestre_01 + semestre_02;
 //		if (soma < 60) {
-//			System.out.printf("%nA sua nota anual é de: %.2f%n", soma);
-//			System.out.println("Infelizmente você está Reprovado.");
+//			System.out.printf("%nA sua nota anual ï¿½ de: %.2f%n", soma);
+//			System.out.println("Infelizmente vocï¿½ estï¿½ Reprovado.");
 //		} else {
-//			System.out.printf("%nA sua nota anual é de: %.2f%n", soma);
-//			System.out.println("Felizmente você está Aprovado.");
+//			System.out.printf("%nA sua nota anual ï¿½ de: %.2f%n", soma);
+//			System.out.println("Felizmente vocï¿½ estï¿½ Aprovado.");
 //		}
 //		ed.close();
 
-		//Exercício Estrutura Condicional - 02 - Youtube	
+        //Exercï¿½cio Estrutura Condicional - 02 - Youtube
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		System.out.println("Diga um valor para A: ");
@@ -35,7 +35,7 @@ public class exerc_estrutura_condicional {
 //		double c = ed.nextDouble();
 //		double delta = Math.pow(b, 2) - (4 * a * c);
 //		if (a == 0 || delta < 0.0) {
-//			System.out.println("Impossível calcular.");
+//			System.out.println("Impossï¿½vel calcular.");
 //		} else {
 //			double baskhara_01 = (-b + Math.sqrt(delta)) / (2 * a);
 //			double baskhara_02 = (-b - Math.sqrt(delta)) / (2 * a);
@@ -43,9 +43,9 @@ public class exerc_estrutura_condicional {
 //			System.out.printf("%nR2 = %.5f", baskhara_02);
 //		}
 //		ed.close();
-		
-		
-		//Exercício Estrutura Condicional - 03 - Youtube
+
+
+        //Exercï¿½cio Estrutura Condicional - 03 - Youtube
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		int a, b, c;
@@ -63,20 +63,20 @@ public class exerc_estrutura_condicional {
 //			System.out.println("MENOR = " + c);
 //		}
 //		ed.close();
-		
-		
-		//Exercício Estrutura Condicional - 01 - PDF
+
+
+        //Exercï¿½cio Estrutura Condicional - 01 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
-//		System.out.println("Diga um número: ");
+//		System.out.println("Diga um nï¿½mero: ");
 //		double number = ed.nextDouble();
 //		if (number < 0) {
 //			System.out.println("NEGATIVO");
 //		} else {
-//			System.out.println("NÃO NEGATIVO");
+//			System.out.println("Nï¿½O NEGATIVO");
 //		}
-		
-		//Exercício Estrutura Condicional - 02 - PDF
+
+        //Exercï¿½cio Estrutura Condicional - 02 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		System.out.println("Diga um valor: ");
@@ -84,11 +84,11 @@ public class exerc_estrutura_condicional {
 //		if (number % 2 == 0) {
 //			System.out.println("PAR");
 //		} else {
-//			System.out.println("ÍMPAR");
+//			System.out.println("ï¿½MPAR");
 //		}
-		
-		
-		//Exercício Estrutura Condicional - 03 - PDF
+
+
+        //Exercï¿½cio Estrutura Condicional - 03 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		System.out.println("Diga um valor para A: ");
@@ -96,12 +96,12 @@ public class exerc_estrutura_condicional {
 //		System.out.println("Diga um valor para B: ");
 //		int b = ed.nextInt();
 //		if (a % b == 0 || b % a == 0) {
-//			System.out.println("São Multiplos");
+//			System.out.println("Sï¿½o Multiplos");
 //		} else {
-//			System.out.println("Não são multiplos");
+//			System.out.println("Nï¿½o sï¿½o multiplos");
 //		}
-		
-		//Exercício Estrutura Condicional - 04 - PDF
+
+        //Exercï¿½cio Estrutura Condicional - 04 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		int inicio, fim, duracao;
@@ -114,19 +114,19 @@ public class exerc_estrutura_condicional {
 //		} else {
 //			duracao = 24 - inicio + fim;
 //		}
-//		System.out.println("O jogo teve a duração de " + duracao + " horas.");
-		
-		
-//		//Exercício Estrutura Condicional - 05 - PDF
+//		System.out.println("O jogo teve a duraï¿½ï¿½o de " + duracao + " horas.");
+
+
+//		//Exercï¿½cio Estrutura Condicional - 05 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
-//		System.out.println("Código\t Descrição\t\t Valor");
+//		System.out.println("Cï¿½digo\t Descriï¿½ï¿½o\t\t Valor");
 //		System.out.println("  1\t Cachorro Quente\t R$ 4.00");
 //		System.out.println("  2\t X-Salada       \t R$ 4.50");
 //		System.out.println("  3\t X-Bacon        \t R$ 5.00");
 //		System.out.println("  4\t Torrada Simples\t R$ 2.00");
 //		System.out.println("  5\t Refrigerante   \t R$ 1.50");
-//		System.out.printf("%nInsira o código do seu pedido: ");
+//		System.out.printf("%nInsira o cï¿½digo do seu pedido: ");
 //		int codigo, quantidade;
 //		double valor;
 //		codigo = ed.nextInt();
@@ -153,12 +153,12 @@ public class exerc_estrutura_condicional {
 //			System.out.printf("O seu pedido foi de %d Refrigerante(s)", quantidade);
 //			System.out.printf("%nTotalizando %.2f reais",  total);
 //		} else {
-//			System.out.println("Código do pedido inválido.");
+//			System.out.println("Cï¿½digo do pedido invï¿½lido.");
 //		}
-//		
+//
 //		ed.close();
-		
-		//Exercício Estrutura Condicional - 06 - PDF
+
+        //Exercï¿½cio Estrutura Condicional - 06 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		System.out.printf("Diga um valor: ");
@@ -175,8 +175,8 @@ public class exerc_estrutura_condicional {
 //			System.out.println("Fora de intervalo");
 //		}
 //		ed.close();
-		
-		//Exercício Estrutura Condicional - 07 - PDF
+
+        //Exercï¿½cio Estrutura Condicional - 07 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
 //		System.out.printf("Diga um valor para X: ");
@@ -205,39 +205,39 @@ public class exerc_estrutura_condicional {
 //			System.out.println("Q4");
 //		}
 //		ed.close();
-		
-		//Exercício Estrutura Condicional - 08 - PDF
+
+        //Exercï¿½cio Estrutura Condicional - 08 - PDF
 //		Locale.setDefault(Locale.US);
 //		Scanner ed = new Scanner(System.in);
-//		System.out.printf("Digite o valor do seu salário: ");
+//		System.out.printf("Digite o valor do seu salï¿½rio: ");
 //		double salario = ed.nextDouble();
 //		if (salario >= 0 && salario <= 2000) {
 //			System.out.println("Isento de IR.");
 //		} else if (salario > 2000 && salario <= 3000) {
 //			double impostoDeRenda = (salario - 2000.0) * 0.08;
-//			System.out.printf("Imposto incidente sobre o seu salário é de %.2f", impostoDeRenda);
+//			System.out.printf("Imposto incidente sobre o seu salï¿½rio ï¿½ de %.2f", impostoDeRenda);
 //		} else if (salario > 3000 && salario <= 4500) {
 //			double impostoDeRenda = (salario - 3000.0) * 0.18 + 1000.0 * 0.08;
-//			System.out.printf("Imposto incidente sobre o seu salário é de %.2f", impostoDeRenda);
+//			System.out.printf("Imposto incidente sobre o seu salï¿½rio ï¿½ de %.2f", impostoDeRenda);
 //		} else if (salario > 4500) {
 //			double impostoDeRenda = (salario - 4500.0) * 0.28 + 1500.0 * 0.18 + 1000.0 * 0.08;
-//			System.out.printf("Imposto incidente sobre o seu salário é de %.2f", impostoDeRenda);
+//			System.out.printf("Imposto incidente sobre o seu salï¿½rio ï¿½ de %.2f", impostoDeRenda);
 //		}
 //		ed.close();
-		
-		//Exercício Estrutura Condicional - 01 - Aula 38
-		Locale.setDefault(Locale.US);
-		Scanner ed = new Scanner(System.in);
-		System.out.printf("Insira quantos minutos você irá consumir: ");
-		int minutos = ed.nextInt();
-		if (minutos <= 100) {
-			System.out.println("Valor a pagar: R$ 50.00");
-		} else if (minutos > 100) {
-			double valorTotal = 50 + ((minutos - 100) * 2) ;
-			System.out.printf("Valor a pagar: R$ %.2f", valorTotal);
-		}
-		
-				
-		
+
+        //Exercï¿½cio Estrutura Condicional - 01 - Aula 38
+        Locale.setDefault(Locale.US);
+        Scanner ed = new Scanner(System.in);
+        System.out.printf("Insira quantos minutos vocï¿½ irï¿½ consumir: ");
+        int minutos = ed.nextInt();
+        if (minutos <= 100) {
+            System.out.println("Valor a pagar: R$ 50.00");
+        } else if (minutos > 100) {
+            double valorTotal = 50 + ((minutos - 100) * 2) ;
+            System.out.printf("Valor a pagar: R$ %.2f", valorTotal);
+        }
+
+
+
+    }
 }
-} 

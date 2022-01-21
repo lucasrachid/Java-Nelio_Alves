@@ -46,10 +46,49 @@ public class estruturaRepetitivaFor {
 //            System.out.printf("%.1f%n", media);
 //        }
 
-        //Exercício Estrutura Repetitiva (For) - 03 - PDF
+        //Exercício Estrutura Repetitiva (For) - 04 - PDF
+//        System.out.printf("Insira um valor para N: ");
+//        int n = ed.nextInt();
+//        for (int x = 0; x < n; x++) {
+//            System.out.printf("Diga um valor para o numerador: ");
+//            double numerador = ed.nextDouble();
+//            System.out.printf("Diga um valor para o denominador: ");
+//            double denominador = ed.nextDouble();
+//            if (denominador == 0) {
+//                System.out.println("Divisão impossível");
+//            } else {
+//                double divisao = numerador / denominador;
+//                System.out.println(divisao);
+//            }
+//        }
 
+        //Exercício Estrutura Repetitiva (For) - 05 - PDF
+//        System.out.printf("Diga um valor: ");
+//        int valor = ed.nextInt();
+//        int fatorial = 1;
+//        for (int i = 1; i <= valor; i++) {
+//            fatorial = fatorial * i;
+//        }
+//        System.out.println(fatorial);
 
+        //Exercício Estrutura Repetitiva (For) - 06 - PDF
+//        System.out.printf("Insira um valor: ");
+//        int value = ed.nextInt();
+//        for (int i = 1; i <= value; i++) {
+//            if (value % i == 0) {
+//                System.out.println(i);
+//            }
+//        }
 
+        //Exercício Estrutura Repetitiva (For) - 07 - PDF
+        System.out.printf("Insira uma quantia de linhas: ");
+        int line = ed.nextInt();
+        for(int i = 1; i <= line; i++) {
+            int multi = i * i;
+            int cubo = (int) Math.pow(i, 3);
+            System.out.println(i + " " + multi + " " + cubo);
+//            System.out.printf("\t%d", i);
+        }
 
     }
 }

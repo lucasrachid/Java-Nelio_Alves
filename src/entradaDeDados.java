@@ -18,15 +18,15 @@ public class entradaDeDados {
 //
 //
 //		int x;
-//		System.out.println("Diga um n�mero inteiro: ");
+//		System.out.println("Diga um número inteiro: ");
 //		x = sc.nextInt();
 //		System.out.println("O valor digitado foi: " + x);
 //
 //
 //		double z;
-//		System.out.println("Diga um n�mero real: ");
+//		System.out.println("Diga um número real: ");
 //		z = sc.nextDouble();
-//		System.out.printf("O n�mero digitado foi: %.2f", z);
+//		System.out.printf("O número digitado foi: %.2f", z);
 
 
 //		char m;
@@ -45,14 +45,14 @@ public class entradaDeDados {
 //		height = sc.nextDouble();
 //
 //		System.out.println("Dados digitados: ");
-//		System.out.println("Seu nome �: " + name);
-//		System.out.println("Voc� tem " + age + " anos de idade.");
-//		System.out.println("Sua altura � " + height + " metros.");
+//		System.out.println("Seu nome é: " + name);
+//		System.out.println("Você tem " + age + " anos de idade.");
+//		System.out.println("Sua altura é " + height + " metros.");
 
 //		String s1, s2, s3;
 //		System.out.println("Digite algo 01: ");
 //		s1 = sc.nextLine();
-////		nextLine ele ir� ler todo o conjunto de string que voce escrever.
+////		nextLine ele irá ler todo o conjunto de string que voce escrever.
 //		System.out.println("Digite algo 02: ");
 //		s2 = sc.nextLine();
 //		System.out.println("Digite algo 03: ");
@@ -75,7 +75,7 @@ public class entradaDeDados {
         System.out.println(number + " " + s4 + " " + s5 + " " + s6);
 
         sc.close();
-//		colocar ao final, quando n�o for mais necess�rio a entrada de dados.
-    }
+//		colocar ao final, quando não for mais necessário a entrada de dados.
 
+    }
 }

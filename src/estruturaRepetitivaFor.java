@@ -89,6 +89,7 @@ public class estruturaRepetitivaFor {
             System.out.println(i + " " + multi + " " + cubo);
 //            System.out.printf("\t%d", i);
         }
+        ed.close();
 
     }
 }

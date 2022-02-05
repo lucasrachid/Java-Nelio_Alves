@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exerc_estrutura_sequencial {
+public class Exerc_estrutura_sequencial {
 
     public static void main(String[] args) {
         // Exercício de Fixação.

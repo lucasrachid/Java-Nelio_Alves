@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class estruturaRepetitivaEnquanto {
+public class EstruturaRepetitivaEnquanto {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

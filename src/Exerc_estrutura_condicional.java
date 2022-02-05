@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 
-public class exerc_estrutura_condicional {
+public class Exerc_estrutura_condicional {
 
     public static void main(String[] args) {
 

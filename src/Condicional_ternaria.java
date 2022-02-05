@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class condicional_ternaria {
+public class Condicional_ternaria {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

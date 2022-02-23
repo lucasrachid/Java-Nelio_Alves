@@ -30,5 +30,7 @@ public class ProblemaSemPoo {
         double area2 = Math.sqrt(p2 * (p2 - d) * (p2 - e) * (p2 - f));
         System.out.printf("%nArea do triângulo é igual a %.4f", area2);
 
+        ed.close();
+
     }
 }
